@@ -1,5 +1,5 @@
 <?php 
-
+ include_once("classes/Operations.php");
    class Multiplication extends Operations{
 
       public function operate(){

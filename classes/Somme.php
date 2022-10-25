@@ -1,5 +1,5 @@
 <?php 
-
+   include_once("classes/Operations.php");
    class Somme extends Operations{
 
       public function operate(){
